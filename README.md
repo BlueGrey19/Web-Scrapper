@@ -1,2 +1,2 @@
 # Web-Scrapper
-Basic Python web scrapper as python practice.
+Beautiful Soup: Build a Web Scraper With Python, using https://realpython.com/ as guide.
